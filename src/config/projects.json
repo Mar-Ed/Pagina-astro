@@ -2,16 +2,16 @@
     {
         "title": "Pagina de comida de gatos",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia illum reiciendis ipsum delectus repudiandae nobis officia deserunt rem voluptate, tempore facilis rerum corporis libero quaerat? Molestias, nisi. Eveniet facere aperiam saepe fuga animi id, modi debitis repudiandae. Incidunt esse ipsum laboriosam placeat magnam a nostrum recusandae, odit labore officia impedit!",
-        "image": "images/fingerprint.svg"
+        "image": "/Pagina-astro/images/fingerprint.svg"
     },
     {
         "title": "Pagina de compra y venta",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia illum reiciendis ipsum delectus repudiandae nobis officia deserunt rem voluptate, tempore facilis rerum corporis libero quaerat? Molestias, nisi. Eveniet facere aperiam saepe fuga animi id, modi debitis repudiandae. Incidunt esse ipsum laboriosam placeat magnam a nostrum recusandae, odit labore officia impedit!",
-        "image": "images/fingerprint.svg"
+        "image": "/Pagina-astro/images/fingerprint.svg"
     },
     {
         "title": "Pagina de ropa",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia illum reiciendis ipsum delectus repudiandae nobis officia deserunt rem voluptate, tempore facilis rerum corporis libero quaerat? Molestias, nisi. Eveniet facere aperiam saepe fuga animi id, modi debitis repudiandae. Incidunt esse ipsum laboriosam placeat magnam a nostrum recusandae, odit labore officia impedit!",
-        "image": "images/fingerprint.svg"
+        "image": "/Pagina-astro/images/fingerprint.svg"
     }
 ]
